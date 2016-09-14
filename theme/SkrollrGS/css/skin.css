@@ -1,0 +1,370 @@
+/*******************************************
+/*  Default skin
+/*  CSS: colors and styles
+/*  Skrollr theme for GetSimple CMS
+/*  v0.6
+/*  Author: Alexander Amatuni
+/*  http://get-simple.info/forums/showthread.php?tid=6986
+/******************************************/
+
+/* Colors used:
+  #EDAC79 - a, logo:hover, nav a, nav a:hover bg, nav a:current bg, hero h1 bg (set as rgba!), hero h1 shadow, h2, button.style2 bg, blockquote 
+  #90715C - a:hover, h3, button.style3 text
+  #232122 - nav bg, h1, hero h1, hero h2 bg, PAGE CONTENT, button bg, button.style3 hover text, pre bg
+  #DFDDE6 - page title, button text, button.style2 text, button.style3 text, table grid, th bg
+  #FFFFFF - logo, nav a:hover, nav a:current, mobile menu icon, slide bg, button hover text, button.style2 hover text, button.style3 bg, pre text,
+  #000000 - nav shadow
+  
+  bg = background
+  button.style3 is also used as form button
+  #hero h1 (big banner on slide zero) background color is set as rgba value (not hex) at line ~200
+*/
+
+/**************************
+/*  General + reset
+**************************/
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul, ol {list-style-position: inside;}
+
+.left {float: left;}
+.right {float: right;}
+.text-left {text-align: left;}
+.text-right {text-align: right;}
+.center {
+    margin: auto auto;
+    text-align: center;
+}
+.clear {clear: both;}
+
+p, ul, ol, blockquote, pre, table, h3 {margin-bottom: 0.5em;}
+
+a {
+    color: #EDAC79;
+    transition:         background-color 0.3s ease, color 0.3s ease;
+    -moz-transition:    background-color 0.3s ease, color 0.3s ease;
+    -webkit-transition: background-color 0.3s ease, color 0.3s ease;
+}
+a:hover {color: #90715C;}
+
+h1, h2 { text-transform: uppercase;}
+
+h1, h2, h3 {
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    color: #232122;
+}
+
+h2 {
+    color: #EDAC79;
+}
+
+h3 {
+    color: #90715C;
+    font-size: 1.3em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+blockquote {
+    border-left: 0.5em solid #EDAC79;
+    padding: 0.2em 0.1em 0.2em 0.6em;
+    color: #EDAC79;
+    font-style: italic;
+}
+
+pre {
+    display: block;
+    clear: both;
+    background-color: #232122;
+    color: #FFFFFF;
+    padding: 0.2em 0.5em;
+    border-left: 1em solid #90715C;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    width: 100%;
+    text-align: left;
+}
+
+tr {border-bottom: 0.1em solid #DFDDE6;}
+
+th {
+    background-color: #DFDDE6;
+    font-style: italic;
+}
+
+td, th {
+    padding: 0.2em;
+    font-size: 0.8em;
+}
+
+/**************************
+/*  Navigation
+**************************/
+#nav {
+    background: #232122;
+    box-shadow: 0.05em 0em 0.5em #000000;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#logo {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.1em;
+    margin-bottom: 2em;
+}
+
+#logo a {
+    color: #FFFFFF;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+#logo:hover a {
+    color: #EDAC79;
+}
+
+#nav ul {
+    text-align: left;
+    margin: 1em auto;
+}
+
+#nav ul li a {
+    padding: 0.4em 2em 0.4em 1em;
+    text-decoration: none;
+    color: #EDAC79;
+}
+
+#nav ul li:hover > a,
+#nav ul li.current > a {
+    background-color: #EDAC79;
+    color: #FFFFFF;
+}
+
+#nav ul li ul {
+    background-color: #232122; /* nav background color : otherwise becomes highlighted when parent is hovered */
+    font-size: 0.8em;
+    margin-left: 1em;
+}
+
+#mobile-menu {
+	width: 1.2em;
+	height: 1.2em;
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 14%, rgba(255,255,255,0) 16%, rgba(255,255,255,0) 42%, rgba(255,255,255,1) 43%, rgba(255,255,255,1) 57%, rgba(255,255,255,0) 58%, rgba(255,255,255,0) 85%, rgba(255,255,255,1) 86%, rgba(255,255,255,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(14%,rgba(255,255,255,1)), color-stop(16%,rgba(255,255,255,0)), color-stop(42%,rgba(255,255,255,0)), color-stop(43%,rgba(255,255,255,1)), color-stop(57%,rgba(255,255,255,1)), color-stop(58%,rgba(255,255,255,0)), color-stop(85%,rgba(255,255,255,0)), color-stop(86%,rgba(255,255,255,1)), color-stop(100%,rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 14%,rgba(255,255,255,0) 16%,rgba(255,255,255,0) 42%,rgba(255,255,255,1) 43%,rgba(255,255,255,1) 57%,rgba(255,255,255,0) 58%,rgba(255,255,255,0) 85%,rgba(255,255,255,1) 86%,rgba(255,255,255,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 14%,rgba(255,255,255,0) 16%,rgba(255,255,255,0) 42%,rgba(255,255,255,1) 43%,rgba(255,255,255,1) 57%,rgba(255,255,255,0) 58%,rgba(255,255,255,0) 85%,rgba(255,255,255,1) 86%,rgba(255,255,255,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 14%,rgba(255,255,255,0) 16%,rgba(255,255,255,0) 42%,rgba(255,255,255,1) 43%,rgba(255,255,255,1) 57%,rgba(255,255,255,0) 58%,rgba(255,255,255,0) 85%,rgba(255,255,255,1) 86%,rgba(255,255,255,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 14%,rgba(255,255,255,0) 16%,rgba(255,255,255,0) 42%,rgba(255,255,255,1) 43%,rgba(255,255,255,1) 57%,rgba(255,255,255,0) 58%,rgba(255,255,255,0) 85%,rgba(255,255,255,1) 86%,rgba(255,255,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+	/* edit this at
+	http://www.colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&1+0,1+14,0+16,0+42,1+43,1+57,0+58,0+85,1+86,1+100;Custom
+	*/
+}
+
+/**************************
+/*  Pages
+**************************/
+#content {
+    background: url(../images/background.jpg) no-repeat;
+    background-size: cover;
+}
+
+#hero {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#hero h1 {
+    margin-top: 2em;
+    padding: 1em;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #232122;
+    background-color: rgba(237,172,121,0.7);
+    text-shadow: 0.01em 0.1em 0.1em #232122;
+}
+    
+#hero h2 {
+    color: #FFFFFF;
+    font-size: 1.1em;
+    background: #232122;
+    opacity: 0.5;
+}
+
+#skrollr-landing .button {
+    margin-top: 12em;
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+
+#wrapper {
+	top: 3em;
+}
+
+.page-wrapper {
+    padding: 2em 4em;
+    margin: 0 3em;
+    background: #FFFFFF;
+    opacity: 0.96;
+    color: #232122;
+}
+
+.page-wrapper .title {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid #DFDDE6;
+    color: #DFDDE6;
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+section {
+    margin: 1em 0em 3em;
+}
+
+/**************************
+/*  Buttons
+**************************/
+a.button {
+    padding: 0.6em;
+    text-decoration: none;
+    border-radius: 0.3em;
+    margin: 0em 0.2em 0.2em;
+    cursor: pointer;   
+    font-family: 'Roboto Condensed', sans-serif;   
+    display: inline-block;
+}
+
+a.button:hover,
+a.button.style1:hover {
+    color: #FFFFFF;
+}
+
+a.button, 
+a.button.style1 {
+    color: #DFDDE6;
+    background: #232122;   
+}
+
+a.button.style2 {
+    color: #DFDDE6;
+    background: #EDAC79;  
+}
+
+a.button.style2:hover {color: #FFFFFF;}
+
+a.button.style3 {
+    color: #90715C;
+    background: #ffffff;  
+    border: 0.1em solid #DFDDE6;
+}
+
+a.button.style3:hover {color: #232122;}
+
+/**************************
+/*  Forms
+**************************/
+fieldset {
+    border-left: none;
+    border-right: none;
+    margin-bottom: 0.5em;
+    padding: 1em 0em;
+}
+
+fieldset legend {
+    padding-right: 1em;
+    font-weight: bold;
+}
+
+form input[type='text'], 
+form input[type='password'], 
+form input[type='email'], 
+form input[type='tel'], 
+form select, 
+form textarea, 
+form button {
+    font-size: 1em;
+    padding: 0.5em;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0.4em;
+}
+
+form label {margin-left: 0.3em;}
+
+form button {
+    color: #90715C;
+    background: #ffffff;
+    border: 0.1em solid #DFDDE6;
+    cursor: pointer;
+}
+
+form button:hover {color: #232122;}
+
+/**************************
+/*  'Grid'
+**************************/
+.row {
+    width: 100%;
+    max-width: 100%;
+}
+
+.row:before, 
+.row:after {
+    content: "";
+    display: table ;
+    clear: both;
+}
+
+.u1, .u2, .u3, .u4, .u5, .u6, .u7, .u8, .u9, .u10, .u11, .u12 {
+    min-height: 1px;
+    float: left;
+    padding-right: 0.1em;
+    height: auto;
+    overflow: hidden;
+}
+
+.u1 {width: 8.334%;}
+.u2 {width: 16.66%;}
+.u3 {width: 25%;}
+.u4 {width: 33.334%;}
+.u5 {width: 41.66%;}
+.u6 {width: 50%;}
+.u7 {width: 58.334%;}
+.u8 {width: 66.66%;}
+.u9 {width: 75%;}
+.u10 {width: 83.334%;}
+.u11 {width: 91.66%;}
+.u12 {width: 100%;}
+
+
+/**************************
+/*  Responsive
+**************************/
+@media screen and (max-width: 64em) {
+
+  #nav {padding: 0.5em 1em;}
+    
+	#wrapper {top: 2em;}
+	
+  .page-wrapper {
+    padding: 1em;
+    margin: 1em 0.2em;
+  }    
+    
+    .u1, .u2, .u3, .u4, .u5, .u6, .u7, .u8, .u9, .u10, .u11, .u12 {width: 100%;}
+}

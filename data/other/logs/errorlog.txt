@@ -1,0 +1,56 @@
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:25:22 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:02 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:27:06 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:31:47 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:35:41 UTC] PHP Warning:  chmod(): Operation not permitted in /var/www/html/cms/admin/install.php on line 44
+[14-Sep-2016 22:36:12 UTC] PHP Warning:  fopen(/var/www/html/cms/.htaccess): failed to open stream: Permission denied in /var/www/html/cms/admin/setup.php on line 125
+[14-Sep-2016 22:36:12 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/cms/admin/setup.php on line 126
+[14-Sep-2016 22:36:12 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/cms/admin/setup.php on line 127
+[14-Sep-2016 22:36:12 UTC] PHP Warning:  rename(/var/www/html/cms/temp.gsconfig.php,/var/www/html/cms/gsconfig.php): Permission denied in /var/www/html/cms/admin/setup.php on line 145

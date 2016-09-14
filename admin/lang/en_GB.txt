@@ -1,0 +1,10 @@
+British English v3.3
+
+File locations:
+
+GetSimple language file for v3.3.1:
+en_GB.php   <site root>/admin/lang/
+
+CKeditor language file (from v3.6.2 source - not modified):
+en-gb.js    <site root>/admin/template/js/ckeditor/lang/
+
