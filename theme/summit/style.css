@@ -214,8 +214,7 @@ a:hover {
 /* Content */
 
 #content {
-	float: right;
-	width: 640px;
+	width: 1000px;
 }
 
 .post {
