@@ -29,8 +29,6 @@ include('header.inc.php');
 
 
 							
-<p>Published on <time datetime="<?php get_page_date('Y-m-d'); ?>" pubdate><?php get_page_date('jS F Y'); ?></time></p>
-							
 						</div>
 					</div>
 					

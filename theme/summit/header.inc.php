@@ -47,6 +47,6 @@
 		</div>
 	</div>
 </div>
-<div id="banner"><a href="<?php get_site_url(); ?>" title="<?php get_site_name(); ?>" class="img-style"><img src="<?php get_theme_url(); ?>/images/img04.jpg" width="1000" height="350" alt="" /></a></div>
+<div id="banner"><a href="<?php get_site_url(); ?>" title="<?php get_site_name(); ?>" class="img-style"><img src="<?php get_theme_url(); ?>/images/logo-wide.png" width="1000" height="350" alt="" /></a></div>
 <div id="wrapper">
 	<!-- end #header -->
