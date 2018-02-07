@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 15 Sep 2016 00:15:18 +0100</pubDate><title><![CDATA[Contact]]></title><url><![CDATA[contact]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Contact]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;You can get hold of us via the following methods.&lt;/p&gt;
+<item><pubDate>Sun, 02 Oct 2016 15:26:29 +0100</pubDate><title><![CDATA[Contact]]></title><url><![CDATA[contact]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Contact]]></menu><menuOrder><![CDATA[30]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;&lt;strong&gt;Committee Details&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered&quot;&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th&gt;Name&lt;/th&gt;
+			&lt;th&gt;Role&lt;/th&gt;
+			&lt;th&gt;Contact Details&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Andy Hood&lt;/td&gt;
+			&lt;td&gt;Chairperson&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;David Pendreigh&lt;/td&gt;
+			&lt;td&gt;Gents&#039; President&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Karen Graham&lt;/td&gt;
+			&lt;td&gt;Ladies&#039; President&lt;/td&gt;
+			&lt;td&gt;01360 310081&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Linda Griffiths&lt;/td&gt;
+			&lt;td&gt;Secretary&lt;/td&gt;
+			&lt;td&gt;01360 311886&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Helen Watson&lt;/td&gt;
+			&lt;td&gt;Treasurer&lt;/td&gt;
+			&lt;td&gt;01360 311725&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Phone&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Club Phone Number&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;01360 310081&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Club Email&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;mocbowlingclub@gmail.com&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Address&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Club Address&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;Kincaidfield&lt;br /&gt;
-	Milton Of Campsie&lt;br /&gt;
-	Glasgow&lt;br /&gt;
-	United Kingdom&lt;br /&gt;
-	G65 8ER&lt;/p&gt;
+&lt;p&gt;Milton of Campsie Bowling Club&lt;br /&gt;
+	Kincaidfield&lt;br /&gt;
+	Milton of Campsie&lt;br /&gt;
+	GLASGOW&lt;br /&gt;
+	G66 8ER&lt;/p&gt;
 ]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

@@ -1,3 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 15 Sep 2016 00:57:28 +0100</pubDate><title><![CDATA[Membership]]></title><url><![CDATA[membership]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Membership]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;The club welcomes new members. Please contact us for more information.&lt;/p&gt;
+<item><pubDate>Sun, 02 Oct 2016 15:25:54 +0100</pubDate><title><![CDATA[Membership]]></title><url><![CDATA[membership]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Membership]]></menu><menuOrder><![CDATA[5]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;The club&#039;s playing season is from April until the end of September each year.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The club welcomes new members. As well as full playing members, the club has a number of associate members who can enjoy the facilities of the clubhouse if they do not want to play bowls.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The annual membership fees will be set at the Annual General Meeting in February 2017. As a general guide, the fees in 20q6 were as below.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Membership Type&lt;/th&gt;
+      &lt;th&gt;Season&lt;/th&gt;
+      &lt;th&gt;Fee&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        Full Membership
+      &lt;/td&gt;
+      &lt;td&gt;
+        2016
+      &lt;/td&gt;
+      &lt;td&gt;
+        £X.XX
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        Associate Membership
+      &lt;/td&gt;
+      &lt;td&gt;
+        2016
+      &lt;/td&gt;
+      &lt;td&gt;
+        £X.XX
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 ]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>

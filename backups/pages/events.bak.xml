@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 15 Sep 2016 00:58:53 +0100</pubDate><title><![CDATA[Events]]></title><url><![CDATA[events]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Events]]></menu><menuOrder><![CDATA[5]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;&lt;strong&gt;Upcoming Events&lt;/strong&gt;&lt;/p&gt;
+<item><pubDate>Sun, 02 Oct 2016 15:32:18 +0100</pubDate><title><![CDATA[Events]]></title><url><![CDATA[events]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Events]]></menu><menuOrder><![CDATA[10]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;&lt;strong&gt;Upcoming Events&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Date - Event&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Formal Events:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered&quot;&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th&gt;Event&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+			&lt;th&gt;Cost&lt;/th&gt;
+			&lt;th&gt;Event Details&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Christmas Dance&lt;/td&gt;
+			&lt;td&gt;Tbc.&lt;/td&gt;
+			&lt;td&gt;Tbc.&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Hogmany Dance&lt;/td&gt;
+			&lt;td&gt;31st December 2016&lt;/td&gt;
+			&lt;td&gt;Tbc.&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BT Sport:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered&quot;&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th&gt;Game&lt;/th&gt;
+			&lt;th&gt;Date&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
 ]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
